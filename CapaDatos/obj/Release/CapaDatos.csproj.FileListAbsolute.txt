@@ -1,0 +1,9 @@
+D:\SISTEMA_VENTA\CapaDatos\bin\Release\CapaDatos.dll
+D:\SISTEMA_VENTA\CapaDatos\bin\Release\CapaDatos.pdb
+D:\SISTEMA_VENTA\CapaDatos\bin\Release\CapaEntidad.dll
+D:\SISTEMA_VENTA\CapaDatos\bin\Release\CapaEntidad.pdb
+D:\SISTEMA_VENTA\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+D:\SISTEMA_VENTA\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+D:\SISTEMA_VENTA\CapaDatos\obj\Release\CapaDatos.csproj.Up2Date
+D:\SISTEMA_VENTA\CapaDatos\obj\Release\CapaDatos.dll
+D:\SISTEMA_VENTA\CapaDatos\obj\Release\CapaDatos.pdb

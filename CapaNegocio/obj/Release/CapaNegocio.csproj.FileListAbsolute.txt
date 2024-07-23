@@ -1,0 +1,11 @@
+D:\SISTEMA_VENTA\CapaNegocio\bin\Release\CapaNegocio.dll
+D:\SISTEMA_VENTA\CapaNegocio\bin\Release\CapaNegocio.pdb
+D:\SISTEMA_VENTA\CapaNegocio\bin\Release\CapaDatos.dll
+D:\SISTEMA_VENTA\CapaNegocio\bin\Release\CapaEntidad.dll
+D:\SISTEMA_VENTA\CapaNegocio\bin\Release\CapaDatos.pdb
+D:\SISTEMA_VENTA\CapaNegocio\bin\Release\CapaEntidad.pdb
+D:\SISTEMA_VENTA\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+D:\SISTEMA_VENTA\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\SISTEMA_VENTA\CapaNegocio\obj\Release\CapaNego.81B9D119.Up2Date
+D:\SISTEMA_VENTA\CapaNegocio\obj\Release\CapaNegocio.dll
+D:\SISTEMA_VENTA\CapaNegocio\obj\Release\CapaNegocio.pdb

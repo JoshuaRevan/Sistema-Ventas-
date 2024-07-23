@@ -1,0 +1,12 @@
+D:\DESARROLLO DE SOFTWARE II\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\DESARROLLO DE SOFTWARE II\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\DESARROLLO DE SOFTWARE II\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\DESARROLLO DE SOFTWARE II\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE SOFTWARE II\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\DESARROLLO DE SOFTWARE II\Proyecto\034_CursoSistemaVentaEscritorio-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\User\Downloads\Proyecto Final Desarrollo II\Proyecto Final Desarrollo II\SISTEMA_VENTA\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\User\Downloads\Proyecto Final Desarrollo II\Proyecto Final Desarrollo II\SISTEMA_VENTA\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\User\Downloads\Proyecto Final Desarrollo II\Proyecto Final Desarrollo II\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proyecto Final Desarrollo II\Proyecto Final Desarrollo II\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proyecto Final Desarrollo II\Proyecto Final Desarrollo II\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\User\Downloads\Proyecto Final Desarrollo II\Proyecto Final Desarrollo II\SISTEMA_VENTA\CapaEntidad\obj\Debug\CapaEntidad.pdb
